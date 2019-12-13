@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lint" : "eslint .",
+    "lint": "eslint .",
     "prettier": "prettier --config .prettierrc.json --write *.js",
     "precommit": "npm run prettier",
     "prepush": "call npm run test"
