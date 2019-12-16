@@ -3,7 +3,6 @@ node_js:
   - node
 script:
   - npm run lint
-  - npm run prettier
 notifications:
   email: false
 deploy:
