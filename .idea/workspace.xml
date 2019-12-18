@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="437f697d-71d3-41b1-8507-416d8aa55c8c" name="Default Changelist" comment="" />
+    <list default="true" id="437f697d-71d3-41b1-8507-416d8aa55c8c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +65,7 @@
       <workItem from="1576495487364" duration="886000" />
       <workItem from="1576496417201" duration="418000" />
       <workItem from="1576537168833" duration="959000" />
-      <workItem from="1576659182687" duration="984000" />
+      <workItem from="1576659182687" duration="1229000" />
     </task>
     <task id="LOCAL-00001" summary="Change app name">
       <created>1576537207037</created>

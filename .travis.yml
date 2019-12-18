@@ -7,5 +7,5 @@ notifications:
   email: false
 deploy:
   provider: heroku
-  api_key: c2a166be-5efe-4f7c-b195-cc5f8f2c45e9
+  api_key: aaaa
   app: nodejskpi
