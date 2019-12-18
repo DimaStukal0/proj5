@@ -7,5 +7,5 @@ notifications:
   email: false
 deploy:
   provider: heroku
-  api_key: aaaa
+  api_key: $api_key
   app: nodejskpi
