@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="437f697d-71d3-41b1-8507-416d8aa55c8c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.firebaserc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,7 +63,8 @@
       <workItem from="1576436948307" duration="1381000" />
       <workItem from="1576495487364" duration="886000" />
       <workItem from="1576496417201" duration="418000" />
-      <workItem from="1576537168833" duration="307000" />
+      <workItem from="1576537168833" duration="959000" />
+      <workItem from="1576659182687" duration="431000" />
     </task>
     <task id="LOCAL-00001" summary="Change app name">
       <created>1576537207037</created>
@@ -73,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576537207037</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Change package &amp; travis.yml">
+      <created>1576537659338</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576537659338</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Change app name" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change app name" />
+    <MESSAGE value="Change package &amp; travis.yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change package &amp; travis.yml" />
   </component>
 </project>
